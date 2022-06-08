@@ -20,6 +20,8 @@ Options:
 ### Requirements
 - Works on WinXP/7/10/11 (x86/x64)
 - Build with Visual Studio 2010+
+- According target OS archtecture, build x86/x64 binary respectively.
+- UAC elevated required.
 
 ### Reference
 - https://bbs.pediy.com/thread-251888.htm
