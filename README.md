@@ -14,3 +14,6 @@
 > Passwords
 * [WinCredential](passwd/WinCredential/) - Remote call LsaICryptUnprotectData in LSASS.exe to decrypt windows credentials.
 * [LsaRecorder](passwd/LsaRecorder/)  -  Hook LsaApLogonUserEx2 to recording winlogon password.
+
+> C2
+* [How CS4.5-Anti-Crack Works](c2/cobaltstrike/cs4.5-anti-crack) - 聊聊CS4.5的防破解机制
