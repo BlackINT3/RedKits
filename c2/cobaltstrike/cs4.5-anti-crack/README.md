@@ -19,12 +19,6 @@ CS4.6修复了该BUG：+ Fixed an issue that caused Cobalt Strike's http listene
 
 说到这里又想多说几句，现在很多软件完整版都是通过会员通道+license分发（只要你有完整版都难逃破解的命运），像CS这种将核心模块加密再将Key基于公钥算法保护也算一种比较流行的保护方式。所以Cracker现在最难的是拿完整版和key，这个肯定也会泄露出来，只是时间问题。
 
-{{< admonition tip "广而告之" >}}
-
-PS：有拿到CS4.6原版的朋友请私聊我。
-
-{{< /admonition >}}
-
 言归正传，终上所述，CS的防破解技术主要分为三个方面：
 * Authorization校验license
 * sleeve的AES加密
